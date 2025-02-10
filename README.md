@@ -41,9 +41,6 @@ Este repositório contém instruções para realizar uma análise ética de trá
 - Se identificar uma possível URL de banco de dados (exemplo: `/db/data.json`), tente acessá-la diretamente.
 - Se o servidor não estiver protegido adequadamente, você pode conseguir acessar o conteúdo do banco de dados.
 
-### 7. Gravar a Tela (Opcional)
-- Para documentar ou compartilhar sua análise, você pode usar um software de gravação de tela, como o OBS Studio ou o gravador nativo do sistema operacional.
-- Grave a tela enquanto realiza os passos descritos, especialmente ao preencher o formulário e analisar as requisições no DevTools.
 
 ## Considerações de Segurança
 
