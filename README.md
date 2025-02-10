@@ -6,7 +6,7 @@ Este repositório contém instruções para realizar uma análise ética de trá
 
 ## Pré-requisitos
 
-- Navegador Chrome ou Firefox
+- Navegador Chrome ou Firefox (para pc mas mobile use ou httpcanary ou kiwi browser)
 - Acesso ao DevTools (Ferramentas de Desenvolvedor) do navegador
 - Acesso à página de login do site em questão (pode ser o seu próprio site ou com permissão explícita para teste)
 
